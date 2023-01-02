@@ -2,4 +2,4 @@
 
 ---
 
-* Module 1. AI ethics
+* Module 1. AI ethic
