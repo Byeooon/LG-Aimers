@@ -2,3 +2,9 @@
 
 ---
 
+* Google Magenta
+* Lamus
+* NLP
+* DCGAN
+* StyleGAN2
+* The Moral Machine Experiment
