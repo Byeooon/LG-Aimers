@@ -7,3 +7,4 @@
 * Part 3 - Smart Quality Management
 * Part 4 - Concepts and Importance of Reliability
 * Part 5 - Reliability Distribution and Scale
+* Part 6 - ICT-Based preservation of foresight
