@@ -8,7 +8,7 @@
 * reinforcement learning
 
 * forward propagation
-* mse loss
+* mean squared error loss
 * softmax loss(cross-entropy loss)
 
 
