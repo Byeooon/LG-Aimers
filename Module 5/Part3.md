@@ -16,3 +16,4 @@
 
 * Sanity checks
 * Adversarial attack
+* Adversarial model manipulation
