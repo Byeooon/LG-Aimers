@@ -8,3 +8,4 @@
 * ###### Module 4. Deep Learning
 * ###### Module 5. Explainable AI
 * ###### Module 6. Causal Inference
+* ###### Module 7. Time Series Data And Optimization
